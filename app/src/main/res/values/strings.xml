@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">theDailyJoke</string>
+    <string name="hint_text">Enter message</string>
+    <string name="button_send">get joke</string>
+    <string name="joke_api_url" translatable="false">https://official-joke-api.appspot.com/random_joke</string>
+    <string name="button_new_joke">new Joke</string>
+    <string name="textfield">joketexts</string>
+    <string name="goBack">go back</string>
+</resources>
